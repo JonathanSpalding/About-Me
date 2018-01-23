@@ -1,6 +1,4 @@
 html, body {
-    font-family: tahoma, 'Segoe UI', Tahoma, Verdana, sans-serif, Arial, serif;
-    font-size: 12pt;
     background-image: url("../img/background.png");
     background-repeat: repeat;
     background-attachment: fixed;
@@ -18,4 +16,100 @@ a:hover {
 
 p { 
     text-indent: 5em;
-  }
+}
+
+.container {
+    background-position: center top;
+    width: 60%;
+    margin: 0 auto;
+    height: auto;
+    background-image: url("../img/paper.jpg");
+    background-repeat: repeat;
+    z-index: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 12pt;
+    font-family: tahoma, 'Segoe UI', Tahoma, Verdana, sans-serif, Arial, serif;
+}
+.title {
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30pt;
+}
+
+.photo {
+    background: url("../img/me.png") no-repeat;
+    float: right;
+    padding: 10px;
+    background: white;
+    box-shadow: 5px 10px;
+}a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p { 
+    text-indent: 5em;
+}
+
+.container {
+    background-position: center top;
+    width: 60%;
+    margin: 0 auto;
+    height: auto;
+    background-color: rgb(197, 196, 196);
+    z-index: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.title {
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30pt;
+}
+
+.photo {
+    background: url("../img/me.png");
+    float: right;
+    padding: 10px;
+    background: white;
+    box-shadow: 5px 10px;
+}
+
+.headings {
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+table, td, td {
+    border: 1px solid black;
+    border-spacing: 2px;
+    text-align: left;
+    text-align: top;
+    table-layout: fixed;
+    width: 90px;
+    padding: 2px;
+}
+.week, .time {
+    background: #ffffff;
+}
+
+.MATH1060 {
+    background: #fc7e7e;
+}
+
+.COMP301 {
+    background: #7b7bfc;
+    
+}
+
+.CS2550 {
+    background: #ffff00;
+}
+
+.CS2810 {
+    background: #ea00cf;
+}
+
