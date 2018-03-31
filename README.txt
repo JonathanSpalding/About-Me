@@ -1,3 +1,24 @@
-Extra work on this file is some jQuery to make the image get bigger when you hover your mouse over it, and when you click the image it opens a larger image. 
+To do:
+Separate each section in a container div.
 
-You can click on the x, or click outside of the image in the grey area and the image will close.
+Configure Title
+Two or four words or phrases that describe you.
+
+Personal info:
+
+Personal interests:
+
+Photos:
+
+Class Schedule:
+
+Footer:
+
+Individual Study:
+
+Parallax background:
+
+Put your photo album in a carousel:
+
+Add a nav-bar:
+
